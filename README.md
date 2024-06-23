@@ -1,3 +1,3 @@
 # Hunar-Intern
 <br>
-Author - Chandresh Singh Chauhan
+Author - Chandresh Singh Chauhan.
